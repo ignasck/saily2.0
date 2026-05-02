@@ -30,4 +30,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ### 🌐 Live Demo
 The application is also hosted and can be accessed at:
-[https://saily-2-0.onrender.com](https://saily-2-0.onrender.com) (Example URL - replace if hosted elsewhere)
+[https://saily2-0.onrender.com/](https://saily2-0.onrender.com/)
