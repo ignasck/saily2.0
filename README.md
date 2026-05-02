@@ -4,8 +4,9 @@ A premium, next-generation travel assistant inspired by Saily (Nord Security). B
 
 ---
 
-### 🎥 Watch the Demo Video
+### 🎥 Demo & Live Web
 [![Saily 2.0 Demo](https://img.shields.io/badge/YouTube-Watch%20Demo-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=poDNPC8I-p8)
+[![Live Demo](https://img.shields.io/badge/Live-Visit%20Website-blue?style=for-the-badge&logo=render)](https://saily2-0.onrender.com)
 
 
 ## ✨ Features
