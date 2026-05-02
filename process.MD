@@ -7,7 +7,7 @@ The goal was to create a modern, high-fidelity replica of the Saily application 
 - **Framework**: Next.js 15 (App Router)
 - **Styling**: Tailwind CSS
 - **Language**: TypeScript
-- **AI Engine**: Google Gemini API (`gemini-1.5-flash`)
+- **AI Engine**: Google Gemini API (`gemini-3.1-flash-lite-preview`)
 - **Animations**: Framer Motion
 
 ---

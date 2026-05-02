@@ -22,7 +22,7 @@ The entire app is **mobile-first**. If we switch to a mobile view, you’ll see 
 
 ## 4. The Core Feature: Smart Search (1:45 - 3:00)
 "Now, the star of the show: **Smart Search**.
-Instead of manually browsing through hundreds of plans, you can just talk to our AI assistant. I integrated the **Gemini 1.5 Flash** model to act as a travel expert.
+Instead of manually browsing through hundreds of plans, you can just talk to our AI assistant. I integrated the **Gemini 3.1 Flash-Lite-Preview** model to act as a travel expert.
 
 You can ask it things like: *'I’m going to France for 10 days, what should I do and which plan do I need?'* 
 

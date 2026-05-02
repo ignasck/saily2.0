@@ -4,7 +4,7 @@ A premium, next-generation travel assistant inspired by Saily (Nord Security). B
 
 ## ✨ Features
 
-- **Smart Search AI**: Integrated with **Gemini 1.5 Flash** to provide real-time travel advice, eSIM plan recommendations, and itinerary planning.
+- **Smart Search AI**: Integrated with **Gemini 3.1 Flash-Lite-Preview** to provide real-time travel advice, eSIM plan recommendations, and itinerary planning.
 - **Saily-like UI**: High-fidelity design following Saily's branding guidelines—featuring minimal aesthetics, vibrant yellow accents, and smooth Framer Motion animations.
 - **Mobile-First Experience**: Fully responsive interface with a custom hamburger menu and a "Sticky/Fixed" chat input field for a native app-like feel.
 - **Plan Recommendation Tool**: The AI analyzes user needs and suggests the most cost-effective eSIM plans directly from the integrated database.
