@@ -14,7 +14,7 @@ A premium, next-generation travel assistant inspired by Saily (Nord Security). B
 ## 🛠️ Tech Stack
 
 ### AI & Logic
-- **Engine**: Google Gemini API (`gemini-2.0-flash`)
+- **Engine**: Google Gemini API (`gemini-2.5-flash`)
 - **Persistence**: Browser LocalStorage
 - **Data**: JSON-based destination & plan database
 
