@@ -1,0 +1,252 @@
+{
+  "destinations": [
+    {
+      "id": "us",
+      "name": "United States",
+      "type": "country",
+      "continent": "North America",
+      "code": "US",
+      "plans": [
+        { "gb": 1, "price": 3.99, "duration": 7 },
+        { "gb": 3, "price": 10.99, "duration": 15 },
+        { "gb": 5, "price": 14.99, "duration": 30 },
+        { "gb": 10, "price": 22.99, "duration": 30 }
+      ]
+    },
+    {
+      "id": "jp",
+      "name": "Japan",
+      "type": "country",
+      "continent": "Asia",
+      "code": "JP",
+      "plans": [
+        { "gb": 1, "price": 3.99, "duration": 7 },
+        { "gb": 3, "price": 8.99, "duration": 15 },
+        { "gb": 5, "price": 12.99, "duration": 30 },
+        { "gb": 10, "price": 19.99, "duration": 30 },
+        { "gb": 20, "price": 28.99, "duration": 30 }
+      ]
+    },
+    {
+      "id": "uk",
+      "name": "United Kingdom",
+      "type": "country",
+      "continent": "Europe",
+      "code": "GB",
+      "plans": [
+        { "gb": 1, "price": 2.99, "duration": 7 },
+        { "gb": 3, "price": 6.99, "duration": 15 },
+        { "gb": 5, "price": 9.99, "duration": 30 },
+        { "gb": 10, "price": 14.99, "duration": 30 }
+      ]
+    },
+    {
+      "id": "tr",
+      "name": "Turkey",
+      "type": "country",
+      "continent": "Asia",
+      "code": "TR",
+      "plans": [
+        { "gb": 1, "price": 2.99, "duration": 7 },
+        { "gb": 3, "price": 7.99, "duration": 15 },
+        { "gb": 5, "price": 11.99, "duration": 30 },
+        { "gb": 10, "price": 17.99, "duration": 30 }
+      ]
+    },
+    {
+      "id": "it",
+      "name": "Italy",
+      "type": "country",
+      "continent": "Europe",
+      "code": "IT",
+      "plans": [
+        { "gb": 1, "price": 3.50, "duration": 7 },
+        { "gb": 3, "price": 8.99, "duration": 15 },
+        { "gb": 5, "price": 12.99, "duration": 30 },
+        { "gb": 10, "price": 18.99, "duration": 30 }
+      ]
+    },
+    {
+      "id": "fr",
+      "name": "France",
+      "type": "country",
+      "continent": "Europe",
+      "code": "FR",
+      "plans": [
+        { "gb": 1, "price": 3.50, "duration": 7 },
+        { "gb": 3, "price": 8.99, "duration": 15 },
+        { "gb": 5, "price": 12.99, "duration": 30 },
+        { "gb": 10, "price": 18.99, "duration": 30 }
+      ]
+    },
+    {
+      "id": "es",
+      "name": "Spain",
+      "type": "country",
+      "continent": "Europe",
+      "code": "ES",
+      "plans": [
+        { "gb": 1, "price": 3.50, "duration": 7 },
+        { "gb": 3, "price": 8.99, "duration": 15 },
+        { "gb": 5, "price": 12.99, "duration": 30 },
+        { "gb": 10, "price": 18.99, "duration": 30 }
+      ]
+    },
+    {
+      "id": "th",
+      "name": "Thailand",
+      "type": "country",
+      "continent": "Asia",
+      "code": "TH",
+      "plans": [
+        { "gb": 1, "price": 4.99, "duration": 7 },
+        { "gb": 3, "price": 9.99, "duration": 15 },
+        { "gb": 5, "price": 14.99, "duration": 30 },
+        { "gb": 10, "price": 21.99, "duration": 30 }
+      ]
+    },
+    {
+      "id": "mx",
+      "name": "Mexico",
+      "type": "country",
+      "continent": "North America",
+      "code": "MX",
+      "plans": [
+        { "gb": 1, "price": 5.99, "duration": 7 },
+        { "gb": 3, "price": 12.99, "duration": 15 },
+        { "gb": 5, "price": 18.99, "duration": 30 },
+        { "gb": 10, "price": 27.99, "duration": 30 }
+      ]
+    },
+    {
+      "id": "au",
+      "name": "Australia",
+      "type": "country",
+      "continent": "Oceania",
+      "code": "AU",
+      "plans": [
+        { "gb": 1, "price": 4.99, "duration": 7 },
+        { "gb": 3, "price": 10.99, "duration": 15 },
+        { "gb": 5, "price": 15.99, "duration": 30 },
+        { "gb": 10, "price": 24.99, "duration": 30 }
+      ]
+    },
+    {
+      "id": "eu",
+      "name": "Europe",
+      "type": "region",
+      "continent": "Europe",
+      "code": "EU",
+      "countriesCount": 35,
+      "plans": [
+        { "gb": 1, "price": 4.99, "duration": 7 },
+        { "gb": 3, "price": 14.99, "duration": 15 },
+        { "gb": 5, "price": 22.99, "duration": 30 },
+        { "gb": 10, "price": 34.99, "duration": 30 }
+      ]
+    },
+    {
+      "id": "asa",
+      "name": "Asia and Oceania",
+      "type": "region",
+      "continent": "Asia",
+      "code": "ASA",
+      "countriesCount": 19,
+      "plans": [
+        { "gb": 1, "price": 4.99, "duration": 7 },
+        { "gb": 3, "price": 15.99, "duration": 15 },
+        { "gb": 5, "price": 24.99, "duration": 30 }
+      ]
+    },
+    {
+      "id": "nam",
+      "name": "North America",
+      "type": "region",
+      "continent": "North America",
+      "code": "NAM",
+      "countriesCount": 3,
+      "plans": [
+        { "gb": 1, "price": 5.99, "duration": 7 },
+        { "gb": 3, "price": 15.99, "duration": 15 },
+        { "gb": 5, "price": 24.99, "duration": 30 }
+      ]
+    },
+    {
+      "id": "mena",
+      "name": "Middle East and North Africa",
+      "type": "region",
+      "continent": "Middle East",
+      "code": "MENA",
+      "countriesCount": 19,
+      "plans": [
+        { "gb": 1, "price": 7.49, "duration": 7 },
+        { "gb": 3, "price": 18.99, "duration": 15 },
+        { "gb": 5, "price": 28.99, "duration": 30 }
+      ]
+    },
+    {
+      "id": "lat",
+      "name": "Latin America",
+      "type": "region",
+      "continent": "South America",
+      "code": "LAT",
+      "countriesCount": 12,
+      "plans": [
+        { "gb": 1, "price": 7.99, "duration": 7 },
+        { "gb": 3, "price": 18.99, "duration": 15 },
+        { "gb": 5, "price": 29.99, "duration": 30 }
+      ]
+    },
+    {
+      "id": "afr",
+      "name": "Africa",
+      "type": "region",
+      "continent": "Africa",
+      "code": "AFR",
+      "countriesCount": 34,
+      "plans": [
+        { "gb": 1, "price": 14.99, "duration": 7 },
+        { "gb": 3, "price": 29.99, "duration": 15 },
+        { "gb": 5, "price": 49.99, "duration": 30 }
+      ]
+    },
+    {
+      "id": "cis",
+      "name": "Caribbean Islands",
+      "type": "region",
+      "continent": "Caribbean",
+      "code": "CIS",
+      "countriesCount": 29,
+      "plans": [
+        { "gb": 1, "price": 8.99, "duration": 7 },
+        { "gb": 3, "price": 19.99, "duration": 15 },
+        { "gb": 5, "price": 34.99, "duration": 30 }
+      ]
+    },
+    {
+      "id": "global",
+      "name": "Global",
+      "type": "global",
+      "continent": "Global",
+      "code": "GLB",
+      "countriesCount": 121,
+      "plans": [
+        { "gb": 1, "price": 8.99, "duration": 7 },
+        { "gb": 5, "price": 35.99, "duration": 30 },
+        { "gb": 10, "price": 59.99, "duration": 30 }
+      ]
+    },
+    {
+      "id": "ultra",
+      "name": "Ultra Plan",
+      "type": "ultra",
+      "continent": "Global",
+      "code": "GLB",
+      "countriesCount": 121,
+      "plans": [
+        { "gb": 5, "price": 26.66, "duration": 30 },
+        { "gb": 10, "price": 49.99, "duration": 30 }
+      ]
+    }
+  ]
+}
