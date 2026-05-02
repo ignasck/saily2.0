@@ -2,6 +2,12 @@
 
 A premium, next-generation travel assistant inspired by Saily (Nord Security). Built with Next.js 15 and Google Gemini AI, this application offers a "stress-free" travel planning experience with smart eSIM recommendations, interactive itineraries, and a pixel-perfect mobile-first design.
 
+---
+
+### 🎥 Watch the Demo Video
+[![Saily 2.0 Demo](https://img.shields.io/badge/YouTube-Watch%20Demo-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=poDNPC8I-p8)
+
+
 ## ✨ Features
 
 - **Smart Search AI**: Integrated with **Gemini 3.1 Flash-Lite-Preview** to provide real-time travel advice, eSIM plan recommendations, and itinerary planning.
