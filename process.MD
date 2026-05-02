@@ -7,7 +7,7 @@ The goal was to create a modern, high-fidelity replica of the Saily application 
 - **Framework**: Next.js 15 (App Router)
 - **Styling**: Tailwind CSS
 - **Language**: TypeScript
-- **AI Engine**: Google Gemini API (`gemini-2.5-flash`)
+- **AI Engine**: Google Gemini API (`gemini-1.5-flash`)
 - **Animations**: Framer Motion
 
 ---
@@ -32,7 +32,7 @@ During this project, I used an AI coding agent as a pair programmer. My strategy
 - **Logic Implementation**: Setting up the API routes and the Gemini integration worked smoothly on the first try.
 
 ### ❌ Challenges & Manual Fixes:
-1. **Model Versioning**: The AI initially tried to use `gemini-1.5-flash`, which resulted in a 404 error. I had to manually override and experiment with the correct model string (`gemini-2.0-flash` or `gemini-2.5-flash` depending on the beta environment) to get the API working.
+1. **Model Versioning**: The AI initially tried to use a very restricted beta version (Gemini 2.5), which resulted in a strict quota limit (20 requests/day). I manually updated it to **Gemini 1.5 Flash**, which offers much higher limits and better stability for production-like environments.
 2. **Syntax Errors**: During the addition of Framer Motion animations, the AI left an unclosed `<div>` tag when it meant to use `<motion.div>`. I had to point out the specific parsing error for the AI to fix it.
 3. **UX Behavior (The Scroll Bug)**: The AI implemented an "auto-scroll to bottom" feature for the chat, but it initially triggered on page load, forcing the user to the bottom of the screen immediately. I had to manually guide the AI to only trigger scrolling after a message is sent.
 4. **Mobile Layout (Sticky Footer)**: On mobile (F12 simulator), the chat input was disappearing or pushing the content incorrectly. It took 3-4 iterations of manual CSS overrides and specific "Sticky/Fixed" prompts to achieve the native app feel.
